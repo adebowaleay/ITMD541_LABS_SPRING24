@@ -1,0 +1,10 @@
+body, div, span, object, iframe,
+h2{
+  text-align: center;
+  color: white;
+  background-color: #D8012C;
+  width: 300px;
+  border: 50px solid #618BFE;
+  padding: 50px;
+  margin: 60px;
+}
